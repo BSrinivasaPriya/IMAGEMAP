@@ -1,0 +1,13 @@
+
+#priya{
+text-align: center;
+margin-top: 100px;
+background: linear-gradient(to bottom, rgb(18, 176, 18),rgb(142, 210, 142),rgb(18, 176, 18)); 
+height: 2px;
+}
+h1{
+color: rgb(124, 46, 180);
+margin-bottom: 60px;
+text-underline-position: below;
+text-decoration: underline;
+}
